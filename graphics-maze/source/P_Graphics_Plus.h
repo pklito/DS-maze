@@ -1,5 +1,5 @@
 #pragma once
-
+#include "compat.h"
 #include <stdio.h>
 #include <nds.h>
 #include "P_Graphics.h"

@@ -8,11 +8,11 @@
 /* VISUALS */
 #define MAZE_FOV_MIN 0.9
 #define MAZE_FOV_MAX 1.4
-float MAZE_FOV;
+static float MAZE_FOV;
 
 #define PULLBACK_MIN 3
 #define PULLBACK_MAX 64
-float PULLBACK;
+static float PULLBACK;
 
 #define RAYCAST_RECURSION 20
 
